@@ -1,0 +1,6 @@
+body {
+  background-color: red;
+}
+.initially-hidden {
+display: none
+}
